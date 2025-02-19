@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HasithRathnayaka
-- 👀 I’m interested in: music, cricket and swimming
+- 👀 I’m interested in: music and sports
 - 🌱 I’m currently learning: HTML, CSS, Flutter and Dart
 - 📫 How to reach me: https://www.instagram.com/h_a_s_i_t_h_17?utm_source=qr&igsh=cTNxaW50djdzdWJp - Instagram
                        https://www.facebook.com/share/16Bu2xj6i8/ - Facebook
